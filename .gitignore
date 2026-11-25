@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
+.env.*
+*.pdf
+pdfs/*
+!pdfs/.gitkeep
+knowledge/
+SRBIAU/
+publication_backups/
+AI_KNOWLEDGE/
+JSON_OUTPUT/
+*.log

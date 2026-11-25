@@ -1,0 +1,8 @@
+docling>=2.0
+transformers>=4.40
+pypdfium2
+pandas>=2.0
+psutil
+sentence-transformers
+pypdf
+requests==2.32.4
